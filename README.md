@@ -1,0 +1,45 @@
+[![Portfolio](./assets/banner.gif)](https://surajnarsale.com)
+<!-- <img src="./assets/banner.gif" > -->
+<b>A passionate fullstack developer, specializing in building exceptional websites & mobile applications, & everything in between.</b>
+<br>
+<br>
+
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`,`.tsx`, `.html`, `.css`, `.scss`, `.vue` 
+
+
+<br>
+<h2>🚀Technologies & Tools </h2>
+<br>
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=Vue.js)
+![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=Redux)
+![Three.js](https://img.shields.io/badge/-Three.js-0A1A2F?style=flat&logo=Three.js)
+
+![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-0A1A2F?style=flat&logo=Express)
+![GraphQl](https://img.shields.io/badge/-GraphQL-0A1A2F?style=flat&logo=GraphQl)
+
+![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
+![Blender](https://img.shields.io/badge/-Blender-0A1A2F?style=flat&logo=blender)
+![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-0A1A2F?style=flat&logo=AdobeIllustrator)
+
+
+
+![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+
+![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=Sass)
+![Styled Components](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=Styledcomponents)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=Tailwindcss)
+
+![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)
+![Webpack](https://img.shields.io/badge/-Webpack-0A1A2F?style=flat&logo=Webpack)
+![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=Docker)
+
+
+
+</div>
